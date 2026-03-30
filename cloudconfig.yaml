@@ -13,6 +13,13 @@ server:
 
 
 
+
+
+
+
+
+
+
 eureka:
   client:
     register-with-eureka: true
