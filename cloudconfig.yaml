@@ -7,5 +7,5 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 
 
-spring:
+app:
   username: akesh
